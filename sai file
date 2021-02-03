@@ -1,0 +1,2 @@
+if (number1 == number2)
+    System.out.println("Number 1 is larger than number 2");
